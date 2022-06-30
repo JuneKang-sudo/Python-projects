@@ -2,10 +2,12 @@
 Interesting python projects
 
 
-**Project #1: tictactoe.py**
+**Project #1: tictactoe**
 
 Welcome to Tic Tac Toe! 
 This game is designed for two players!
+
+File: tictactoe.py
 
 
 
@@ -15,5 +17,6 @@ This game is designed for two players!
 3. Simple math to calculate the cylinder volume and surface_area. 
 
 **Search phone number through different folders using regular expression**
-extract.py
-extract_content.zip
+
+Files: extract.py
+       extract_content.zip
